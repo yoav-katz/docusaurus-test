@@ -5,5 +5,6 @@ export default function Home(): JSX.Element {
   const {
     siteConfig: { baseUrl },
   } = useDocusaurusContext();
-  return <Redirect to={`${baseUrl}/docs/Training/Welcome`} />;
+
+  return <Redirect to={`${baseUrl}docs/Training/Welcome`} />;
 }
