@@ -2,4 +2,4 @@
 
 ---
 
-![DBaaS](/static/img/loud.png)
+![DBaaS](/img/loud.png)

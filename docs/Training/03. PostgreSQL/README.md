@@ -1,6 +1,6 @@
 # PostgreSQL
 
-![PostgreSQL](/static/img/postgres.jpg)
+![PostgreSQL](/img/postgres.jpg)
 
 ## Basic
 

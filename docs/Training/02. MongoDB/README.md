@@ -1,6 +1,6 @@
 # MongoDB
 
-![MongoDB](/static/img/mongoDB.png)
+![MongoDB](/img/mongoDB.png)
 
 ## Basic
 

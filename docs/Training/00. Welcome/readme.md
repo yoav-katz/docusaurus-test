@@ -10,4 +10,4 @@ We are glad to have you aboard!
 
 To get started, read the welcome pages and introduction
 
-![Wizard](/static/img/wizard.webp)
+![Wizard](/img/wizard.webp)

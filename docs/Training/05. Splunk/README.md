@@ -1,6 +1,6 @@
 # Splunk
 
-![Splunk](/static/img/splunk.png)
+![Splunk](/img/splunk.png)
 
 ## Prerequisites
 
