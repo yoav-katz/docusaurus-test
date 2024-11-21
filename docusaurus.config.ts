@@ -9,7 +9,7 @@ const config: Config = {
   tagline: "DBAAS docs",
   favicon: "img/favicon.icoS",
   url: process.env.PROD_URL,
-  baseUrl: "/",
+  baseUrl: process.env.BASE_URL,
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
