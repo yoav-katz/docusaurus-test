@@ -1,7 +1,9 @@
-import { Redirect } from '@docusaurus/router';
+import { Redirect } from "@docusaurus/router";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 export default function Home(): JSX.Element {
-  return (
-    <Redirect to="/docs/Training/Welcome" />
-  );
+  const {
+    siteConfig: { baseUrl },
+  } = useDocusaurusContext();
+  return <Redirect to={`${baseUrl}/docs/Training/Welcome`} />;
 }
